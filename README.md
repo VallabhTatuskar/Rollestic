@@ -1,7 +1,7 @@
-#Overview
+# Overview
 Rollestic is a physics-based 3D game developed using Unity as a learning project to explore core game development concepts. The project focuses on player movement, collision handling, and interactive gameplay mechanics.
 
-#Features
+## Features
 Player movement and controls
 Physics-based interactions using Unity components
 Collision detection system
@@ -14,7 +14,7 @@ Project Purpose
 
 This project was built independently to gain practical experience in game development and understand the fundamentals of designing interactive games using Unity.
 
-#Skills Gained
+## Skills Gained
 Game development workflow
 Unity physics system
 Scripting in C#
@@ -25,8 +25,9 @@ Add multiple game levels
 Improve UI and visual effects
 Add scoring and progression system
 Enhance game mechanics and challenges
-Author
 
+
+## Author
 Vallabh Tatuskar
 
 GitHub: github.com/VallabhTatuskar
